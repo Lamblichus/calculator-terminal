@@ -1,2 +1,8 @@
-# calculator-terminal
-A terminal calculator. Writed in python.
+# 1 - Clone repo
+- git clone https://github.com/Lamblichus/calculator-terminal.git
+
+# 2 - Cd folder
+- cd calculator-terminal
+
+# 3 - Run the file
+- /bin/python /home/yourhomefolder/calculator-terminal/calc.py
