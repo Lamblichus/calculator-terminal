@@ -6,3 +6,5 @@
 
 # 3 - Run the file
 - /bin/python /home/yourhomefolder/calculator-terminal/calc.py
+
+# 4- Enjoy!
